@@ -1,0 +1,17 @@
+.container__menu-title {
+    color: #ffffff;
+}
+
+.container__menu-title>h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.container__menu-title>hr {
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+}
