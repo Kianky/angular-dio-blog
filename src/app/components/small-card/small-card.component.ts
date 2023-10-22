@@ -7,9 +7,9 @@ import { Component, Input, OnInit } from '@angular/core';
 })
 export class SmallCardComponent implements OnInit {
   @Input()
-  photoCover: string = ""
+  photoCover: string = "https://blog.iprocess.com.br/wp-content/uploads/2021/11/placeholder.png"
   @Input()
-  cardTitle: string = ""
+  cardTitle: string = "Lorem"
   @Input()
   id: string = "0"
 

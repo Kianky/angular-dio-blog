@@ -1,0 +1,10 @@
+.container__pages {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.list__pages {
+    border: 1px solid white;
+}
